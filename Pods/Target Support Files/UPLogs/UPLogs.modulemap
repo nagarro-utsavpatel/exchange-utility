@@ -1,0 +1,6 @@
+framework module UPLogs {
+  umbrella header "UPLogs-umbrella.h"
+
+  export *
+  module * { export * }
+}
